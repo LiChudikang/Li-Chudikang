@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=Dico&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer&descSize=20&descAlignY=55"/>
+# Hi, I'm Dico <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <!-- Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+intelligent+tools+with+AI+%F0%9F%A4%96;Turning+ideas+into+scalable+products+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -137,7 +136,5 @@ Status:    Open to internship & full-time opportunities
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=100&section=footer"/>
-
+  <sub>Open to collaboration — feel free to reach out!</sub>
 </div>
